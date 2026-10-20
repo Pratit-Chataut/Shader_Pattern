@@ -1,0 +1,3 @@
+D:/Projects/C/OpenGL/Black_Hole/build/CMakeFiles/main.dir
+D:/Projects/C/OpenGL/Black_Hole/build/CMakeFiles/edit_cache.dir
+D:/Projects/C/OpenGL/Black_Hole/build/CMakeFiles/rebuild_cache.dir
